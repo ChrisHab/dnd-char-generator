@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "TestConsole\TestConsole.csproj", "{3731ED37-2037-4CD6-BFC4-E06CAEAB65C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleUnitTests", "TestConsoleUnitTests\TestConsoleUnitTests.csproj", "{2113BCC2-CB3E-4ABF-A876-563239207368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3731ED37-2037-4CD6-BFC4-E06CAEAB65C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3731ED37-2037-4CD6-BFC4-E06CAEAB65C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3731ED37-2037-4CD6-BFC4-E06CAEAB65C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3731ED37-2037-4CD6-BFC4-E06CAEAB65C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2113BCC2-CB3E-4ABF-A876-563239207368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2113BCC2-CB3E-4ABF-A876-563239207368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2113BCC2-CB3E-4ABF-A876-563239207368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2113BCC2-CB3E-4ABF-A876-563239207368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36770AF6-0F65-4FCC-B5F4-6A5B631B566D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://eaut32dxbt42nn2:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TestConsole\\TestConsole.csproj
+		SccProjectName1 = TestConsole
+		SccLocalPath1 = TestConsole
+		SccProjectUniqueName2 = TestConsoleUnitTests\\TestConsoleUnitTests.csproj
+		SccProjectName2 = TestConsoleUnitTests
+		SccLocalPath2 = TestConsoleUnitTests
+	EndGlobalSection
+EndGlobal

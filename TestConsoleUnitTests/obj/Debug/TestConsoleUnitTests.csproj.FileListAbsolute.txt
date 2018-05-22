@@ -1,0 +1,17 @@
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\TestConsoleUnitTests.dll
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\TestConsoleUnitTests.pdb
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\TestConsole.exe
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\TestConsole.pdb
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\TestConsole.exe.config
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\obj\Debug\TestConsoleUnitTests.csprojResolveAssemblyReference.cache
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\obj\Debug\TestConsoleUnitTests.csproj.CoreCompileInputs.cache
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\obj\Debug\TestConsoleUnitTests.csproj.CopyComplete
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\obj\Debug\TestConsoleUnitTests.dll
+C:\tfs\Test-Project\TestConsole\TestConsoleUnitTests\obj\Debug\TestConsoleUnitTests.pdb
